@@ -1,0 +1,13 @@
+label{
+    margin-top: 2%;
+    font-size: 15pt;
+}
+
+input{
+    width: 50%;
+    text-align: center;
+}
+
+.btnAdd{
+    margin-top: 5%;
+}

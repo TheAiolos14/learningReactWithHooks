@@ -1,0 +1,27 @@
+.view{
+    margin-top: 30%;
+    margin-left: 7%;
+    margin-bottom: 20%;
+}
+
+.viewTxt{
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+.add{
+    margin-left: 7%;
+    text-align: center;
+}
+
+.title{
+    color: blue;
+    text-align: center;
+    margin-left: 8%;
+    margin-bottom: 5%;
+}
+
+.txtInput{
+
+    margin-bottom: 7%;
+}
